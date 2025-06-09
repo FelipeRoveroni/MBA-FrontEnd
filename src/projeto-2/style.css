@@ -1,0 +1,18 @@
+:root {
+    --cor-fundo: #EEEEEE;
+    --cor-principal: #31363F;
+    --cor-destaque: #76ABAE
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-principal)
+}
